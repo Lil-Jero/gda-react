@@ -21,8 +21,8 @@ Réaliser une application de gestion des demandes de congés pour une société.
 
 ## `Stack`
 -   ReactJS
--   NodeJS
--   Javascript
+-   NodeJS <a href="node.js/standard/454x128.png"><img height=48 src="node.js/standard/454x128.png" alt="node.js standard"></a>
+-   Javascript [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascriptcom/)
 -   MongoDB
 
 ## `Participants`
@@ -38,3 +38,9 @@ Réaliser une application de gestion des demandes de congés pour une société.
 -   **_`Jérôme Voipierre`_**
 
     -   [Linkedin](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-voipierre/)
+
+
+
+
+
+

@@ -22,7 +22,7 @@ Réaliser une application de gestion des demandes de congés pour une société.
 ## `Stack`
 -   ReactJS
 -   NodeJS <a href="node.js/standard/454x128.png"><img height=48 src="node.js/standard/454x128.png" alt="node.js standard"></a>
--   Javascript https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+-   Javascript [!Javascript]https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 -   MongoDB
 
 ## `Participants`

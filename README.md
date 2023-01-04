@@ -27,12 +27,12 @@ Réaliser une application de gestion des demandes de congés pour une société.
 
 -   **_`Liting QIU`_**
 
-    -   [Linkedin]([https://www.linkedin.com/in/damien-laitani/](https://www.linkedin.com/in/liting-qiu/))
+    -   [Linkedin](https://www.linkedin.com/in/liting-qiu/)
 
 -   **_`Mickael Trilles`_**
 
-    -   [Linkedin]([https://www.linkedin.com/in/otmaneboujlam/](https://www.linkedin.com/in/mikaeltrilles/))
+    -   [Linkedin](https://www.linkedin.com/in/mikaeltrilles/)
 
 -   **_`Jérôme Voipierre`_**
 
-    -   [Linkedin]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-voipierre/))
+    -   [Linkedin](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-voipierre/)

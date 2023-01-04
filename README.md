@@ -4,6 +4,8 @@
 
 Projet final de la formation [JS Fullstack](https://www.diginamic.fr/catalogue/developpement-web-et-mobile/formation-developpeur-fullstack-js/) à Diginamic.
 
+Attention ! Vous êtes sur le côté FRONT de l'application. Pour voir le côté BACK c'est par ici --> [https://github.com/Lil-Jero/gda-node](https://github.com/Lil-Jero/gda-node)
+
 **Date** : 13 au 21 décembre 2022
 
 **Durée** : 7 jours ouvrés
